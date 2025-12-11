@@ -1,0 +1,340 @@
+{
+  "name": "Jasmat Parmar",
+  "title": "Junior software Engineer",
+  "DOB": "August 26, 1995",
+  "contact": {
+    "phone": "+91 9687336426",
+    "address": "Ahmedabad",
+    "email": "parmarjasmat@gmail.com",
+    "linkedin": "www.linkedin.com/in/jasmat-parmar-42a380146"
+  },
+  "totalExperience": "3.5+ years",
+  "stats": [
+    {
+      "value": 3,
+      "suffix": "+",
+      "label": "Years of Experience"
+    },
+    {
+      "value": 5,
+      "suffix": "+",
+      "label": "Worldwide Clients"
+    },
+    {
+      "value": 5,
+      "suffix": "+",
+      "label": "Total Projects"
+    }
+  ],
+  "profile1": "I’m a Junior software engineer with 3+ years of hands-on experience designing, developing, and unit testing and web applications using Angular, React, Next.js and JavaScript frameworks and libraries. I have experience utilizing React components, Forms, Event, Keys, Navigation, and Redux concepts to develop the application.",
+  "profile2": "I have a solid understanding of Rectjs, Next Js and Angular concepts, including modules, components, Redux, SSR, reusable components, content stack api calling using graph ql, services, and dependency injection, and I am comfortable working with REST APIs.",
+  "workExperience": [
+    {
+      "id": 0,
+      "role": "Freelancer Jr. Software developer",
+      "company": "",
+      "duration": "June 2024 – Present",
+      "responsibilities": [
+        "Built high-performance, SEO-friendly web pages using Next.js with SSR and SSG.",
+        "Structured projects using the Next.js app router and organized code under the src directory for scalability.",
+        "Integrated Content Stack APIs via GraphQL.",
+        "Designed responsive UIs with SCSS modules, Bootstrap, and custom CSS for a consistent experience across all devices.",
+        "Resolved issues via SonarCloud, enforced best practices through linting, and ensured reliability with Jest unit/integration tests.",
+        "Integrated Azure Active Directory B2C (Azure AD B2C) for secure user authentication, handling login, registration, and password reset flows on the client side.",
+        "Customized Azure B2C UI elements and user flows to maintain consistent branding and improve user experience.",
+        "Developed responsive and user-friendly frontend interfaces using Angular, HTML, Tailwind CSS, and JavaScript.",
+        "Customized chatbot interfaces and interactions using HTML, CSS, and JavaScript to enhance customer support."
+      ],
+      "skills": [
+        "Next-JS",
+        "React",
+        "Typescript",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Content-stack",
+        "Tailwind CSS",
+        "Bootstraps",
+        "Ant-Design UI",
+        "Jasmine",
+        "Jest",
+        "React Testing Library",
+        "Chakra UI framework"
+      ]
+    },
+    {
+      "id": 1,
+      "role": "Junior Software Engineer ",
+      "company": "Tridhya tech Ltd (Coodeit Pvt Ltd)",
+      "duration": "June 2022 – June 2024",
+      "responsibilities": [
+        "Built responsive, mobile-first React components using Bootstrap and custom CSS.",
+        "Refactored class components into functional ones, improving performance and maintainability.",
+        "Created custom hooks and utility functions for reusable, modular logic.",
+        "Integrated APIs and bound dynamic data to UI via JSX for seamless data flow",
+        "Used Redux and React Context for efficient state management.",
+        "Collaborated with teams to debug, test, and enhance user experience",
+        "Conducted code reviews, promoting scalable and clean code practices.",
+        "Ensured accessibility and responsiveness across all devicesizes."
+      ],
+      "skills": [
+        "React",
+        "Angular",
+        "Typescript",
+        "Javascript",
+        "Redux",
+        "Bootstraps",
+        "Prime-NG UI library",
+        "MIUI",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "id": 2,
+      "role": "Assistant Network Engineer ",
+      "company": "Teamlease Pvt Ltd",
+      "duration": "June 2019 – June 2022",
+      "responsibilities": [
+        "Provided network support services for devices such as hubs, bridges, routers, and other hardware.",
+        "Provided complete end-to-end engineering and installation of route-based IP network solutions."
+      ],
+      "skills":[""]
+    }
+  ],
+  "education": [
+    {
+      "title": "B.E.E.C",
+      "location": "Government Engineering College - Bhuj",
+      "years": 2017,
+      "description": ""
+    },
+    {
+      "title": "D.E.E.C",
+      "location": "Christ Pollytechnic Institute - Rajkot",
+      "years": 2014,
+      "description": ""
+    },
+    {
+      "title": "SSC",
+      "location": "S.S.V High-school - Lakhnka",
+      "years": 2011,
+      "description": ""
+    }
+  ],
+  "expertise": [
+    "React",
+    "Next-Js",
+    "Angular",
+    "Typescript",
+    "Javascript",
+    "HTML",
+    "CSS",
+    "React Testing Library",
+    "Jest, Karma, Jasmine",
+    "SonarQube & Bandit"
+  ],
+  "projects": [
+    {
+      "id": 0,
+      "name": "Circles",
+      "skill": "",
+      "category": "Development",
+      "tags": ["Web Design", "Social Media", "Product"],
+      "projectType": "Insurance Comparison Web Application",
+      "client": "US Based",
+      "duration": "6 months",
+      "task": "Frontend Development",
+      "budget": "As a Compnay Budget",
+      "liveUrl": "",
+      "image": "https://thames-home-4.vercel.app/_next/image?url=%2Fimages%2Fportfolio%2Fportfolio-img2.jpg&w=3840&q=75",
+      "description": "A dynamic insurance comparison tool that calculates insurance for various products from different companies based on gender, age, spouse’s age, state, amount, and deferral period. Enables users to compare and buy insurance products across states seamlessly."
+    },
+    {
+      "id": 1,
+      "name": "Beckett",
+      "skill": "",
+      "category": "Web Design",
+      "tags": ["Web Design", "Social Media", "Product"],
+      "projectType": "No-Code UI Builder",
+      "client": "Company Product",
+      "duration": "1 years",
+      "task": "Frontend Development",
+      "budget": "Company Budget",
+      "liveUrl": "",
+      "image": "https://thames-home-4.vercel.app/_next/image?url=%2Fimages%2Fportfolio%2Fportfolio-img4.jpg&w=3840&q=75",
+      "description": "Debugged and resolved critical issues to enhance application stability and performance. Implemented reusable common components based on business requirements. Integrated a print order summary template to improve order processing efficiency. Optimized the web portal for SEO, ensuring better Google crawling by implementing: Meta tags, Canonical URLs, Link references, Structured data for search engines"
+    },
+    {
+      "id": 2,
+      "name": "ASTM International",
+      "skill": "",
+      "tags": ["Web Design", "Social Media", "Product"],
+      "projectType": "High-Performance Server-Side Rendered Web App",
+      "client": "US Based",
+      "duration": "1 Year 6 Months",
+      "task": "Frontend Development",
+      "budget": "As a Compnay Budget",
+      "liveUrl": "",
+      "category": "Development",
+      "image": "https://thames-home-4.vercel.app/_next/image?url=%2Fimages%2Fportfolio%2Fportfolio-img5.jpg&w=3840&q=75",
+      "description": "Built high-performance web pages using Next.js with SSR and SSG. Integrated Content Stack APIs using GraphQL and custom parsers like HTMLReactParser for dynamic content rendering. Focused on responsive UI, optimized performance, code quality via SonarCloud, and modular reusable components with rigorous testing using Jest."
+    },
+    {
+      "id": 3,
+      "name": "Aberdeen City Council ",
+      "skill": "",
+      "tags": ["Web Design", "Social Media", "Product"],
+      "projectType": "High-Performance Server-Side Rendered Web App",
+      "client": "US Based",
+      "duration": "1 Year",
+      "task": "Frontend Development",
+      "budget": "As a Compnay Budget",
+      "liveUrl": "",
+      "category": "Web Design",
+      "image": "https://thames-home-4.vercel.app/_next/image?url=%2Fimages%2Fportfolio%2Fportfolio-img5.jpg&w=3840&q=75",
+      "description": "Developed a responsive, user-friendly web portal using Angular and TailwindCSS. Implemented dynamic navigation, service listings, and interactive features for citizens, ensuring accessibility and cross-device compatibility. Optimized UI components for performance and maintainability"
+    },
+    {
+      "id": 4,
+      "name": "Kaktus ",
+      "skill": "",
+      "tags": ["Web Design", "Social Media", "Product"],
+      "projectType": "High-Performance Rendered Web App",
+      "client": "US Based",
+      "duration": "1 Year 6 Months",
+      "task": "Frontend Development",
+      "budget": "As a Compnay Budget",
+      "liveUrl": "",
+      "category": "Web Design",
+      "image": "https://thames-home-4.vercel.app/_next/image?url=%2Fimages%2Fportfolio%2Fportfolio-img4.jpg&w=3840&q=75",
+      "description": "The US-based pharmacy project aims to enhance customer convenience by integrating with a kiosk machine formedication ordering and pickup."
+    },
+    {
+      "id": 5,
+      "name": "Tableflow",
+      "skill": "",
+      "tags": ["Web Design", "Social Media", "Product"],
+      "projectType": "High-Performance Rendered Web App",
+      "client": "US Based",
+      "duration": "1 Year 3 Months",
+      "task": "Frontend Development",
+      "budget": "As a Compnay Budget",
+      "liveUrl": "",
+      "category": "Web Design",
+      "image": "https://thames-home-4.vercel.app/_next/image?url=%2Fimages%2Fportfolio%2Fportfolio-img2.jpg&w=3840&q=75",
+      "description": "User-friendly interface empowers you to design your application's user interface and functionality effortlessly. Plus, our advanced features ensure a seamlessly running application."
+    },
+    {
+      "id": 6,
+      "name": "Benefit Calculator",
+      "skill": "",
+      "tags": ["Web Design", "Social Media", "Product"],
+      "projectType": "High-Performance Rendered Web App",
+      "client": "US Based",
+      "duration": "1 Year",
+      "task": "Frontend Development",
+      "budget": "As a Compnay Budget",
+      "liveUrl": "",
+      "category": "Web Design",
+      "image": "https://thames-home-4.vercel.app/_next/image?url=%2Fimages%2Fportfolio%2Fportfolio-img2.jpg&w=3840&q=75",
+      "description": "Benefit Calculator is Calculate insurance of different products of different companies. It's Calculate based on gender, age, Spouse's age, states, amount, and deferral period. Using Benefit Calculator easily select insurance product of any companies of any state and buy that."
+    },
+    {
+      "id": 7,
+      "name": "PCH- Case Clinical",
+      "skill": "",
+      "tags": ["Web Design", "Social Media", "Product"],
+      "projectType": "High-Performance Server-Side Rendered Web App",
+      "client": "US Based",
+      "duration": "6 Months",
+      "task": "Frontend Development",
+      "budget": "As a Compnay Budget",
+      "liveUrl": "",
+      "category": "Web Design",
+      "image": "https://thames-home-4.vercel.app/_next/image?url=%2Fimages%2Fportfolio%2Fportfolio-img5.jpg&w=3840&q=75",
+      "description": "Attorney, different-clinics are use this system for admit accident’s person and manage their insurance base on his/her insurance card. The application would provide users with a safe, secure and credible platform to take a hospital service and claim health insurance fees. Admin users and Attorney will be able to verify user profiles, disable users, and generate reports."
+    }
+  ],
+  "services": [
+    {
+      "servicetitle": "Web Development",
+      "serviceicon": "/logos/webdevelopment.png",
+      "servicedescription": "Building responsive, SEO-friendly, and performant websites using modern frameworks and best practices."
+    },
+    {
+      "servicetitle": "Software Development",
+      "serviceicon": "/logos/softwlogo.png",
+      "servicedescription": "Designing and implementing scalable software solutions tailored to meet business needs and user requirements."
+    },
+    {
+      "servicetitle": "System Development",
+      "serviceicon": "/logos/systelogo.png",
+      "servicedescription": "Developing robust and efficient systems architecture to support complex workflows and integrations."
+    },
+    {
+      "servicetitle": "Security Analysis",
+      "serviceicon": "/logos/seqlogo.png",
+      "servicedescription": "Conducting thorough security assessments to identify vulnerabilities and ensure data protection."
+    }
+  ],
+  "blogPost": [
+    {
+      "id": 1,
+      "image": "https://t3.ftcdn.net/jpg/03/36/83/30/240_F_336833083_Ua8kKZtRaf9q5CYrsIpo4Eo6rpP3WmAr.jpg",
+      "category": "Branding",
+      "author": "Admin",
+      "commentsCount": 22,
+      "title": "Kobita tumi sopno charini hoye khobor nio na"
+    },
+    {
+      "id": 2,
+      "image": "https://t4.ftcdn.net/jpg/02/87/29/57/240_F_287295724_WKpV4CwY34XAbHBTPZG1bnQbAckMJSlg.jpg",
+      "category": "Marketing",
+      "author": "Admin",
+      "commentsCount": 22,
+      "title": "Become the best version of you everyday"
+    },
+    {
+      "id": 3,
+      "image": "https://t3.ftcdn.net/jpg/14/11/73/58/240_F_1411735826_RJOAqaYJ30eF4Y7Y49tHboxa9AHKgtjS.jpg",
+      "category": "Web Design",
+      "author": "Admin",
+      "commentsCount": 22,
+      "title": "Jim Morrison says when the musics over turn off the light"
+    },
+    {
+      "id": 4,
+      "image": "https://t3.ftcdn.net/jpg/00/85/52/58/240_F_85525851_wDN6Occmekwwlr86IaOp5qQbgptOugwg.jpg",
+      "category": "Design",
+      "author": "Admin",
+      "commentsCount": 10,
+      "title": "New design trends in 2025"
+    }
+  ],
+  "socialIcons": [
+    {
+      "name": "Facebook",
+      "icon": "FaFacebookF",
+      "url": "https://www.facebook.com/",
+      "color": "bg-blue-600"
+    },
+    {
+      "name": "Twitter",
+      "icon": "FaTwitter",
+      "url": "https://x.com/i/flow/login",
+      "color": "bg-blue-400"
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "FaLinkedinIn",
+      "url": "www.linkedin.com/in/jasmat-parmar-42a380146",
+      "color": "bg-blue-700"
+    },
+    {
+      "name": "Instagram",
+      "icon": "FaInstagram",
+      "url": "https://www.instagram.com/?hl=en",
+      "color": "bg-purple-500"
+    }
+  ]
+}
