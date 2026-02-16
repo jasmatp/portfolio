@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { WorkExperienceProp, WorkexperienceProps } from './types/types';
 
 const WorkExperience: React.FC<WorkexperienceProps> = ({ workExperienceData }) => {

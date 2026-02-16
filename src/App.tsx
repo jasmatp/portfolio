@@ -1,22 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import Navbar from './components/common/Navbar';
-import { Outlet, Route, Routes, useLocation } from 'react-router-dom';
 import Home from './components/Home';
 import About from './components/About';
 import StatsSection from './components/StatsSection';
 import Works from './components/WorkItem';
-import AwardsAchievements from './components/AwardsAchievements';
 import WorkExperience from './components/WorkExperience';
 import Educations from './components/Educations';
 import SkillsSection from './components/SkillsSection';
-import PricingPlans from './components/PricingPlans';
 import Services from './components/Services';
-import Testimonial from './components/Testimonial';
 import RotatingLogos from './components/RotatingLogos';
 import ContactForm from './components/ContactForm';
-import RecentBlog from './components/BlogCard';
 import ProfileData from './components/Dmock.json'
 import Footer from './components/common/Footer';
 

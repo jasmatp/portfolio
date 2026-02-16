@@ -196,7 +196,7 @@ const Works: React.FC<ProjectProps> = ({ projectData }) => {
                   <div className="mt-4 flex items-center text-sm text-black">
                     <span>Share this product :</span>
                     <div className="flex space-x-2 ml-2 text-blue-700 cursor-pointer">
-                      <a href="#" aria-label="Share on Facebook">
+                      <a href="/" aria-label="Share on Facebook">
                         <svg
                           fill="currentColor"
                           className="w-4 h-4"
@@ -206,7 +206,7 @@ const Works: React.FC<ProjectProps> = ({ projectData }) => {
                           <path d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.879v-6.987h-2.54v-2.892h2.54V9.845c0-2.507 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562v1.875h2.773l-.443 2.892h-2.33v6.987C18.343 21.128 22 16.991 22 12z" />
                         </svg>
                       </a>
-                      <a href="#" aria-label="Share on Twitter">
+                      <a href="/" aria-label="Share on Twitter">
                         <svg
                           fill="currentColor"
                           className="w-4 h-4"
@@ -216,7 +216,7 @@ const Works: React.FC<ProjectProps> = ({ projectData }) => {
                           <path d="M23 3a10.9 10.9 0 01-3.14.86 4.48 4.48 0 00-7.86 4.1A12.94 12.94 0 013 4.89a4.48 4.48 0 001.39 6 4.48 4.48 0 01-2.03-.56v.06a4.48 4.48 0 003.6 4.39 4.52 4.52 0 01-2.02.07 4.48 4.48 0 004.18 3.12A9 9 0 013 19.54a12.89 12.89 0 007 2.05c8.4 0 13-7 13-13v-.59A9.22 9.22 0 0023 3z" />
                         </svg>
                       </a>
-                      <a href="#" aria-label="Share on Google Plus">
+                      <a href="/" aria-label="Share on Google Plus">
                         <svg
                           fill="currentColor"
                           className="w-4 h-4"
@@ -226,7 +226,7 @@ const Works: React.FC<ProjectProps> = ({ projectData }) => {
                           <path d="M21 8h-3v3h-2v-3h-3v-2h3V3h2v3h3v2zm-9 3a4 4 0 11.001-8.001A4 4 0 0112 11zm0 2c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z" />
                         </svg>
                       </a>
-                      <a href="#" aria-label="Share on LinkedIn">
+                      <a href="/" aria-label="Share on LinkedIn">
                         <svg
                           fill="currentColor"
                           className="w-4 h-4"
