@@ -1,5 +1,5 @@
 import React from "react";
-import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram, FaMailBulk, FaFileCode } from "react-icons/fa";
+import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram, FaMailBulk } from "react-icons/fa";
 import type { ElementType, ReactElement } from "react";
 import { SocialIconProps } from "../types/types";
 
