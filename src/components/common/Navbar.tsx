@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Bars3Icon } from '@heroicons/react/24/solid'
-import myCV from '../../assets/resume-pdf/jasmat_parmar.pdf';
+import myCV from '../../assets/resume-pdf/jasmat_resume.pdf';
 import { ProfileDataProps } from '../types/types';
 
 const Navbar: React.FC<ProfileDataProps> = ({ProfileData}) => {
@@ -31,7 +31,7 @@ const Navbar: React.FC<ProfileDataProps> = ({ProfileData}) => {
     const downloadCV = () => {
         const link = document.createElement('a');
         link.href = myCV;
-        link.download = 'jasmat_parmar.pdf'; // Set the filename for download
+        link.download = 'jasmat_resume.pdf'; // Set the filename for download
         link.click();
     }
 

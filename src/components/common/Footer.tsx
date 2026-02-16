@@ -21,11 +21,11 @@ const Footer: React.FC<SocialIconProps> = ({ socialIconData }) => {
         <div>
           <div className="flex items-center justify-center md:justify-start text-[#4a9fd8] space-x-2">
             {/* <img src="/logo.svg" alt="Thames Logo" className="w-6 h-6" /> */}
-            <FaCodeIcon />
-            <span className="text-xl text-black font-semibold">Freelance</span>
+            {/* <FaCodeIcon />
+            <span className="text-xl text-black font-semibold">Freelance</span> */}
           </div>
           <p className="mt-2 text-sm text-gray-600">
-            All rights reserved <span className="font-medium">Freelance</span> © 2025
+            All rights reserved <span className="font-medium"></span> © 2025
           </p>
         </div>
 

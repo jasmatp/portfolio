@@ -1,6 +1,6 @@
 {
   "name": "Jasmat Parmar",
-  "title": "Junior software Engineer",
+  "title": "Software Engineer",
   "DOB": "August 26, 1995",
   "contact": {
     "phone": "+91 9687336426",
@@ -18,11 +18,6 @@
     {
       "value": 5,
       "suffix": "+",
-      "label": "Worldwide Clients"
-    },
-    {
-      "value": 5,
-      "suffix": "+",
       "label": "Total Projects"
     }
   ],
@@ -31,8 +26,8 @@
   "workExperience": [
     {
       "id": 0,
-      "role": "Freelancer Jr. Software developer",
-      "company": "",
+      "role": "Software developer",
+      "company": "Drinnovative",
       "duration": "June 2024 – Present",
       "responsibilities": [
         "Built high-performance, SEO-friendly web pages using Next.js with SSR and SSG.",
@@ -265,16 +260,6 @@
       "servicetitle": "Software Development",
       "serviceicon": "/logos/softwlogo.png",
       "servicedescription": "Designing and implementing scalable software solutions tailored to meet business needs and user requirements."
-    },
-    {
-      "servicetitle": "System Development",
-      "serviceicon": "/logos/systelogo.png",
-      "servicedescription": "Developing robust and efficient systems architecture to support complex workflows and integrations."
-    },
-    {
-      "servicetitle": "Security Analysis",
-      "serviceicon": "/logos/seqlogo.png",
-      "servicedescription": "Conducting thorough security assessments to identify vulnerabilities and ensure data protection."
     }
   ],
   "blogPost": [

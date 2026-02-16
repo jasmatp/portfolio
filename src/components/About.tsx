@@ -75,13 +75,13 @@ const About: React.FC<ProfileDataProps> = ({ ProfileData }) => {
                                 <span>Occupation</span>
                                 <span>Nationality</span>
                                 <span>Education</span>
-                                <span>Freelance</span>
+                                {/* <span>Freelance</span> */}
                             </div>
                             <div className='grid ml-4'>
-                                <span>{roles[1]}</span>
+                                <span>{roles[0]}</span>
                                 <span>Indian</span>
                                 <span>{ProfileData.education[0].title}</span>
-                                <span>Available</span>
+                                {/* <span>Available</span> */}
                             </div>
                         </div>
 
