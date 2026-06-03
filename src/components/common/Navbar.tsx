@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Bars3Icon } from '@heroicons/react/24/solid'
-import myCV from '../../assets/resume-pdf/jasmat_resume.pdf';
+import myCV from '../../assets/resume-pdf/jp_resume.pdf';
 import { ProfileDataProps } from '../types/types';
 
 const Navbar: React.FC<ProfileDataProps> = ({ProfileData}) => {

@@ -8,20 +8,20 @@
     "email": "parmarjasmat@gmail.com",
     "linkedin": "www.linkedin.com/in/jasmat-parmar-42a380146"
   },
-  "totalExperience": "3.5+ years",
+  "totalExperience": "4 years",
   "stats": [
     {
-      "value": 3,
+      "value": 4,
       "suffix": "+",
       "label": "Years of Experience"
     },
     {
-      "value": 5,
+      "value": 6,
       "suffix": "+",
       "label": "Total Projects"
     }
   ],
-  "profile1": "I’m a Junior software engineer with 3+ years of hands-on experience designing, developing, and unit testing and web applications using Angular, React, Next.js and JavaScript frameworks and libraries. I have experience utilizing React components, Forms, Event, Keys, Navigation, and Redux concepts to develop the application.",
+  "profile1": "I’m a Junior software engineer with 4 years of hands-on experience designing, developing, and unit testing and web applications using Angular, React, Next.js and JavaScript frameworks and libraries. I have experience utilizing React components, Forms, Event, Keys, Navigation, and Redux concepts to develop the application.",
   "profile2": "I have a solid understanding of Rectjs, Next Js and Angular concepts, including modules, components, Redux, SSR, reusable components, content stack api calling using graph ql, services, and dependency injection, and I am comfortable working with REST APIs.",
   "workExperience": [
     {
@@ -304,22 +304,10 @@
       "color": "bg-blue-600"
     },
     {
-      "name": "Twitter",
-      "icon": "FaTwitter",
-      "url": "https://x.com/i/flow/login",
-      "color": "bg-blue-400"
-    },
-    {
       "name": "LinkedIn",
       "icon": "FaLinkedinIn",
       "url": "www.linkedin.com/in/jasmat-parmar-42a380146",
       "color": "bg-blue-700"
-    },
-    {
-      "name": "Instagram",
-      "icon": "FaInstagram",
-      "url": "https://www.instagram.com/?hl=en",
-      "color": "bg-purple-500"
     }
   ]
 }
