@@ -56,9 +56,9 @@ const Footer: React.FC<SocialIconProps> = ({ socialIconData }) => {
                 <a
                   key={social.name}
                   href={social.url}
-                  // target="_blank"
+                  target="_blank"
                   className={`text-white p-2 rounded-full hover:scale-110 transform transition bg-[#4a9fd8] ${social.color}`}
-                  aria-label={social.name}
+                  aria-label={social.name} rel="noreferrer"
                 >
                   <IconComponent />
                 </a>
